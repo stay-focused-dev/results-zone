@@ -1,4 +1,4 @@
-module github.com/stay-focused-dev/results-zone-reports
+module github.com/stay-focused-dev/results-zone
 
 go 1.21.3
 

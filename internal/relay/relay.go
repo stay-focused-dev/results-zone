@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/shopspring/decimal"
-	"github.com/stay-focused-dev/results-zone-reports/internal/result"
+	"github.com/stay-focused-dev/results-zone/internal/result"
 )
 
 type items struct {

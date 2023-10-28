@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/stay-focused-dev/results-zone-reports/internal/exitcode"
-	"github.com/stay-focused-dev/results-zone-reports/internal/relay"
+	"github.com/stay-focused-dev/results-zone/internal/exitcode"
+	"github.com/stay-focused-dev/results-zone/internal/relay"
 	"github.com/xuri/excelize/v2"
 )
 
